@@ -2,7 +2,7 @@
  * La clase modela un sencillo podómetro que registra información
  * acerca de los pasos, distancia, ..... que una persona (hombre o mujer)
  * ha dado en una semana. 
- * 
+ * hola
  * @author    - pon aquí tu nombre - 
  * 
  */
